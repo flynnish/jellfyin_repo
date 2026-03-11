@@ -1,0 +1,23 @@
+[
+  {
+    "guid": "e5c6a1e3-8f92-4b2a-9f1c-d7b3a4e5f6g7",
+    "name": "Xtream Library (Overseerr Filtered)",
+    "description": "Custom build of Xtream Library with tag-based filtering from Overseerr/Jellyseerr.",
+    "overview": "Syncs Xtream VOD/Series content to STRM files, but only for items tagged in your request manager.",
+    "owner": "Custom",
+    "category": "Library",
+    "guidelinesUrl": null,
+    "issuesUrl": null,
+    "version": "1.1.0.0",
+    "versions": [
+      {
+        "version": "1.1.0.0",
+        "changelog": "Added Overseerr/Jellyseerr tag filtering logic.",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://github.com/flynnish/Jellyfin-Xtream-Library/archive/refs/tags/v1.1.0.zip",
+        "checksum": "d121b91fb1241aa7c7950d465a0ac050c7b36f16bbca3603b9ee14ab5549c45a",
+        "timestamp": "2026-03-11T00:00:00Z"
+      }
+    ]
+  }
+]
