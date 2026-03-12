@@ -1,6 +1,6 @@
 [
   {
-    "guid": "e5c6a1e3-8f92-4b2a-9f1c-d7b3a4e5f6g7",
+    "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
     "name": "Xtream Library (Overseerr Filtered)",
     "description": "Custom build of Xtream Library with tag-based filtering from Overseerr/Jellyseerr.",
     "overview": "Syncs Xtream VOD/Series content to STRM files, but only for items tagged in your request manager.",
