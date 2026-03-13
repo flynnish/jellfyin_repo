@@ -15,7 +15,7 @@
         "changelog": "Added Overseerr/Jellyseerr tag filtering logic.",
         "targetAbi": "10.9.0.0",
         "sourceUrl": "https://github.com/flynnish/Jellyfin-Xtream-Library/releases/download/v1.1.0/XtreamFilter.zip",
-        "checksum": "697cc278e1569b78c639102fe7defe7542c866fcb1b329eb055b84299db3cef0",
+        "checksum": "e472bc796f2b42f74d20f3f227eeab78b8d7033b7b9d33c3ce9a0c32b879d846",
         "timestamp": "2026-03-11T00:00:00Z"
       }
     ]
