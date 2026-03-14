@@ -8,14 +8,14 @@
     "category": "Library",
     "guidelinesUrl": null,
     "issuesUrl": null,
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "versions": [
       {
-        "version": "1.0.0.2",
+        "version": "1.0.0.3",
         "changelog": "Fixed internal resource paths to ensure settings gear appears.",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/flynnish/Jellyfin-Xtream-Library/releases/download/v1.1.0/XtreamFilter.zip",
-        "checksum": "8d7ddc0e3e642e381cbe7d1fc23cca2d",
+        "checksum": "3272266b546c3aa5f43bc006bf7c5607",
         "timestamp": "2026-03-14T09:00:00Z"
       }
     ]
