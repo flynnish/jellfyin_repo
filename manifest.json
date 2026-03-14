@@ -15,7 +15,7 @@
         "changelog": "Fixed internal resource paths to ensure settings gear appears.",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/flynnish/Jellyfin-Xtream-Library/releases/download/v1.1.0/XtreamFilter.zip",
-        "checksum": "3272266b546c3aa5f43bc006bf7c5607",
+        "checksum": "a8a1cbe80fb1f91a0fbdc8640d67659c",
         "timestamp": "2026-03-14T09:00:00Z"
       }
     ]
